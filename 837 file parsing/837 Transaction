@@ -1,8 +1,4 @@
-An 837 is a Claim for medical services transaction. The 837P is the most common of the 3 claim types: Dental, Professional and Institutional. The following example will show you how to:
-
-Take an 837 file and create X12 XML that shows the hieararchical relationships of the X12 segments with comments related to their values.
-Take an 837 file and format it as X12 to reveal it's heirarchical relationship.
-Transform an 837 into HTML for presentation as X12 with tool tips.
+An 837 is a Claim for medical services transaction. The 837P is the most common of the 3 claim types: Dental, Professional and Institutional.
 A sample 837 file that looks like this:
 
 ISA*00*          *01*SECRET    *ZZ*SUBMITTERS.ID  *ZZ*RECEIVERS.ID   *030101*1253*^*00501*000000905*1*T*:~
